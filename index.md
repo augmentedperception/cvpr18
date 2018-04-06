@@ -4,7 +4,7 @@
 <p style="text-align: center;"> Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi  </p>
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/augmentedperception/cvpr18/blob/master/stack.png)
 
 ### Description
 
