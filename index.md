@@ -1,5 +1,5 @@
 ## Organizers
-
+<p style="text-align: center;"> Test </p>
 Sean Fanello, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm,  
 Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim,  Jonathan Taylor, 
 Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi
