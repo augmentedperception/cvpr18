@@ -2,9 +2,10 @@
 <p style="text-align: center;"> Sean Fanello, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
 <p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim, </p>
 <p style="text-align: center;"> Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi  </p>
- ### Augmented Perception - Google
+
+<p style="text-align: center;"> **Augmented Perception - Google** </p>
  
-![PerceptionStack](https://github.com/augmentedperception/cvpr18/blob/master/stack.png) 
+![PerceptionStack](http://www.seanfanello.it/wp-content/uploads/2018/04/stack.png) 
 
 ## Description
 
