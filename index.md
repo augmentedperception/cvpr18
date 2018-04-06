@@ -2,11 +2,11 @@
 <p style="text-align: center;"> Sean Fanello, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
 <p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim, </p>
 <p style="text-align: center;"> Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi  </p>
+<p style="text-align: center;"> ### Augmented Perception - Google </p>
 
+<p style="text-align: center;"> ![PerceptionStack](https://github.com/augmentedperception/cvpr18/blob/master/stack.png)  </p>
 
-![Image of Yaktocat](https://github.com/augmentedperception/cvpr18/blob/master/stack.png)
-
-### Description
+## Description
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
