@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Organizers
 
-You can use the [editor on GitHub](https://github.com/augmentedperception/cvpr18/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sean Fanello, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm,  
+Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim,  Jonathan Taylor, 
+Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Description
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
