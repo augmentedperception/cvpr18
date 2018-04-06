@@ -8,7 +8,7 @@
 ## Description
 
 ## Where and When
-Ball A - Friday June 22nd 2018
-Calvin L. Rampton Salt Palace Convention Center, Salt Lake City
+Friday June 22nd 2018 <br />
+<b> Ball A </b> - Calvin L. Rampton Salt Palace Convention Center, Salt Lake City
 
 ## Program
