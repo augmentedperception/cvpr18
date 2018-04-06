@@ -1,9 +1,10 @@
 ## Organizers
-<p style="text-align: center;"> Sean Fanello, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm,  
-Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim,  Jonathan Taylor, 
-Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi
-</p>
+<p style="text-align: center;"> Sean Fanello, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
+<p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim, </p>
+<p style="text-align: center;"> Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi  </p>
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Description
 
