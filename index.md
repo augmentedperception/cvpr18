@@ -20,7 +20,7 @@ Friday June 22nd 2018 <br />
     <th><div align="center"> Speaker</div> </th>
   </tr>
   <tr>
-    <td><div align="center"> 9:00-9:10 </div> </td>
+    <td><div align="center"> 9:00 - 9:10 </div> </td>
     <td><div align="center"> Introduction </div> </td> 
     <td><div align="center"> Sean Fanello<br/> AP - Google </div> </td> 
   </tr>
@@ -78,6 +78,66 @@ Friday June 22nd 2018 <br />
     <td><div align="center"> 13:00 - 13:45 </div> </td>
     <td><div align="center"> Localization and Mapping - ARCore </div> </td> 
     <td><div align="center"> Konstantine Tsotsos <br/> Zack Moratto <br/> ARCore - Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 13:45 - 14:00 </div> </td>
+    <td><div align="center"> Machine Learning for Camera Relocalization </div> </td> 
+    <td><div align="center"> Julien Valentin <br/> AP - Google </div> </td> 
+  </tr>    
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Session 3: <br/>World Understanding </b> </div> </td> 
+    <td></td>
+  </tr>   
+  <tr>
+    <td><div align="center"> 14:00 - 14:15 </div> </td>
+    <td><div align="center"> Scene Understanding </div> </td> 
+    <td><div align="center"> Juergen Sturm <br/> AP - Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 14:15 - 14:30 </div> </td>
+    <td><div align="center"> Semantic Labeling </div> </td> 
+    <td><div align="center"> Thomas Funkhouser <br/> Princetone University / AP - Google </div> </td> 
+  </tr>      
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Session 4: <br/>Non Rigid Tracking & Reconstruction </b> </div> </td> 
+    <td></td>
+  </tr>   
+  <tr>
+    <td><div align="center"> 14:30 - 14:50 </div> </td>
+    <td><div align="center"> Parametric Tracking </div> </td> 
+    <td><div align="center"> Anastasia Tkach <br/> AP - Google </div> </td> 
+  </tr>   
+  <tr>
+    <td><div align="center"> 14:50 - 15:30 </div> </td>
+    <td><div align="center"> Non Rigid Reconstruction of Humans </div> </td> 
+    <td><div align="center"> Mingsong Dou <br/> Kaiwen Guo <br/> AP - Google </div> </td> 
+  </tr>   
+  <tr>
+    <td><div align="center"> 15:30 - 16:00 </div> </td>
+    <td><div align="center"> Coffee Break </div> </td> 
+    <td></td> 
+  </tr>    
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Session 5: <br/>Machine Learning and Interactive Applications </b> </div> </td> 
+    <td></td>
+  </tr>  
+  <tr>
+    <td><div align="center"> 16:00 - 16:15 </div> </td>
+    <td><div align="center"> LookinGood - Free Viewpoint Volumetric Videos </div> </td> 
+    <td><div align="center"> Rohit Pandey <br/> AP - Google </div> </td> 
+  </tr>   
+  <tr>
+    <td><div align="center"> 16:15 - 16:30 </div> </td>
+    <td><div align="center"> Fast Machine Learning on Embedded Devices </div> </td> 
+    <td><div align="center"> Christine Kaeser-Chen <br/> Mobile Vision - Google </div> </td> 
+  </tr>    
+  <tr>
+    <td><div align="center"> 16:30 - 16:15 </div> </td>
+    <td><div align="center"> Digital AR </div> </td> 
+    <td><div align="center"> David Kim <br/> AP - Google </div> </td> 
   </tr>    
 </table>
 
