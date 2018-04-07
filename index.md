@@ -58,7 +58,27 @@ Friday June 22nd 2018 <br />
     <td><div align="center"> 11:15 - 11:30 </div> </td>
     <td><div align="center"> Active Stereo Net: Self-Supervised End-to-End Training for Active Stereo Systems </div> </td> 
     <td><div align="center"> Yinda Zhang <br/> Princetone University / AP - Google </div> </td> 
+  </tr>  
+  <tr>
+    <td></td>
+    <td><div align="center"> <b> Session 2: <br/>Tracking & Relocalization </b> </div> </td> 
+    <td></td>
+  </tr>  
+  <tr>
+    <td><div align="center"> 11:30 - 12:00 </div> </td>
+    <td><div align="center"> Non-Linear Optimization Methods </div> </td> 
+    <td><div align="center"> Jonathan Taylor <br/> AP - Google </div> </td> 
+  </tr>  
+  <tr>
+    <td><div align="center"> 12:00 - 13:00 </div> </td>
+    <td><div align="center"> Lunch Break </div> </td> 
+    <td></td> 
   </tr>   
+  <tr>
+    <td><div align="center"> 13:00 - 13:45 </div> </td>
+    <td><div align="center"> Localization and Mapping - ARCore </div> </td> 
+    <td><div align="center"> Konstantine Tsotsos <br/> Zack Moratto <br/> ARCore - Google </div> </td> 
+  </tr>    
 </table>
 
 Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
