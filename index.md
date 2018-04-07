@@ -1,7 +1,7 @@
 ## Organizers
-<p style="text-align: center;"> Sean Fanello, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
-<p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Sameh Khamis,  David Kim, </p>
-<p style="text-align: center;"> Rohit Pandey, Julien Valentin,  Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi  </p>
+<p style="text-align: center;"> Sean Fanello, Jonathan Taylor, Julien Valentin, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
+<p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Rohit Pandey, Sameh Khamis, </p>
+<p style="text-align: center;"> David Kim, Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi</p>
 
 <p style="text-align: center;"> <b> Augmented Perception - Google </b> </p>
 <p style="text-align:center"><img src="http://www.seanfanello.it/wp-content/uploads/2018/04/stack.png"/></p>
@@ -14,4 +14,4 @@ Friday June 22nd 2018 <br />
 ## Program
 
 
-Please contact [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
+Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
