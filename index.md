@@ -22,7 +22,7 @@ Friday June 22nd 2018 <br />
   <tr>
     <td><div align="center"> 9:00 - 9:10 </div> </td>
     <td><div align="center"> Introduction </div> </td> 
-    <td><div align="center"> Sean Fanello<br/> AP - Google </div> </td> 
+    <td><div align="center"> Shahram Izadi<br/> AP - Google </div> </td> 
   </tr>
   <tr>
     <td></td>
