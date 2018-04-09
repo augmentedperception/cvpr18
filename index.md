@@ -91,7 +91,7 @@ Friday June 22nd 2018 <br />
   </tr>   
   <tr>
     <td><div align="center"> 14:00 - 14:15 </div> </td>
-    <td><div align="center"> Scene Understanding </div> </td> 
+    <td><div align="center"> 3D Scene Understanding </div> </td> 
     <td><div align="center"> Juergen Sturm <br/> AP - Google </div> </td> 
   </tr>    
   <tr>
