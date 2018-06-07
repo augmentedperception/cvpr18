@@ -57,7 +57,7 @@ Friday June 22nd 2018 <br />
   <tr>
     <td><div align="center"> 11:15 - 11:30 </div> </td>
     <td><div align="center"> Active Stereo Net: Self-Supervised End-to-End Training for Active Stereo Systems </div> </td> 
-    <td><div align="center"> Yinda Zhang <br/> Princetone University / AP - Google </div> </td> 
+    <td><div align="center"> Yinda Zhang <br/> Princeton University / AP - Google </div> </td> 
   </tr>  
   <tr>
     <td></td>
@@ -97,7 +97,7 @@ Friday June 22nd 2018 <br />
   <tr>
     <td><div align="center"> 14:15 - 14:30 </div> </td>
     <td><div align="center"> Semantic Labeling </div> </td> 
-    <td><div align="center"> Thomas Funkhouser <br/> Princetone University / AP - Google </div> </td> 
+    <td><div align="center"> Thomas Funkhouser <br/> Princeton University / AP - Google </div> </td> 
   </tr>      
   <tr>
     <td></td>
