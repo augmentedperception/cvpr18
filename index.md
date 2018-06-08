@@ -1,6 +1,6 @@
 ## Organizers
 <p style="text-align: center;"> Sean Fanello, Julien Valentin, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
-<p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Rohit Pandey, Sameh Khamis, </p>
+<p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Rohit Pandey, Andrea Tagliasacchi, Sameh Khamis, </p>
 <p style="text-align: center;"> David Kim, Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi</p>
 
 <p style="text-align: center;"> <b> Augmented Perception - Google </b> </p>
@@ -105,12 +105,12 @@ Friday June 22nd 2018 <br />
     <td></td>
   </tr>   
   <tr>
-    <td><div align="center"> 14:30 - 14:50 </div> </td>
+    <td><div align="center"> 14:30 - 15:00 </div> </td>
     <td><div align="center"> Parametric Tracking </div> </td> 
-    <td><div align="center"> Anastasia Tkach <br/> AP - Google </div> </td> 
+    <td><div align="center"> Anastasia Tkach <br/> Sofien Bouaziz <br/> AP - Google </div> </td> 
   </tr>   
   <tr>
-    <td><div align="center"> 14:50 - 15:30 </div> </td>
+    <td><div align="center"> 15:00 - 15:30 </div> </td>
     <td><div align="center"> Non Rigid Reconstruction of Humans </div> </td> 
     <td><div align="center"> Mingsong Dou <br/> Kaiwen Guo <br/> AP - Google </div> </td> 
   </tr>   
