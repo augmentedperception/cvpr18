@@ -77,7 +77,7 @@ Friday June 22nd 2018 <br />
   <tr>
     <td><div align="center"> 13:00 - 13:45 </div> </td>
     <td><div align="center"> Localization and Mapping - ARCore </div> </td> 
-    <td><div align="center"> Konstantine Tsotsos <br/> Zack Moratto <br/> ARCore - Google </div> </td> 
+    <td><div align="center"> Konstantine Tsotsos <br/> ARCore - Google </div> </td> 
   </tr>    
   <tr>
     <td><div align="center"> 13:45 - 14:00 </div> </td>
