@@ -135,7 +135,7 @@ Friday June 22nd 2018 <br />
     <td><div align="center"> Christine Kaeser-Chen <br/> Mobile Vision - Google </div> </td> 
   </tr>    
   <tr>
-    <td><div align="center"> 16:30 - 17:15 </div> </td>
+    <td><div align="center"> 16:30 - 16:45 </div> </td>
     <td><div align="center"> Digital AR </div> </td> 
     <td><div align="center"> David Kim <br/> AP - Google </div> </td> 
   </tr>    
