@@ -51,7 +51,7 @@ Friday June 22nd 2018 <br />
   </tr>      
   <tr>
     <td><div align="center"> 11:00 - 11:15 </div> </td>
-    <td><div align="center"> Deep Learning to Break 1/30th Subpixel Precision </div> </td> 
+    <td><div align="center"> StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction </div> </td> 
     <td><div align="center"> Sameh Khamis <br/> AP - Google </div> </td> 
   </tr>      
   <tr>
