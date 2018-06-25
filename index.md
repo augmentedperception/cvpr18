@@ -126,7 +126,7 @@ Friday June 22nd 2018 <br />
   </tr>  
   <tr>
     <td><div align="center"> 16:00 - 16:15 </div> </td>
-    <td><div align="center"> LookinGood - Free Viewpoint Volumetric Videos </div> </td> 
+    <td><div align="center"> LookinGood - Enhancing Performance Capture with Real-time Neural Re-rendering </div> </td> 
     <td><div align="center"> Rohit Pandey <br/> AP - Google </div> </td> 
   </tr>   
   <tr>
