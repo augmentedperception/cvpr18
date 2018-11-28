@@ -146,4 +146,4 @@ Friday June 22nd 2018 <br />
   </tr>    
 </table>
 
-Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
+Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions or to request the slides.
